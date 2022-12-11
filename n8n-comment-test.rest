@@ -1,0 +1,11 @@
+GET https://n8n-dev.lb.yasmany.dev/webhook-test/bfba5637-39cb-4062-a001-8df4eeaff57c HTTP/1.1
+Content-Type: application/json
+User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: es-AR,es;q=0.9,es-ES;q=0.8,en;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cookie: n8n-auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjgyZDE0NTVjLWU0NjItNGQ3Ny1iMGVhLWVjMmRjNzg3NDE5NiIsImVtYWlsIjoieWFzbWFueTE5OThAZ21haWwuY29tIiwicGFzc3dvcmQiOiI4ZTUwY2Y5ZmIxZjRiYjJmZWEwZDQzZDFlNmY5YWY2NDZlZTM5NjI4OGQ2MTUwNDQzYzYwZjgwMjBhYTZlMDA5IiwiaWF0IjoxNjcwNTA3NzA1LCJleHAiOjE2NzExMTI1MDV9.VsOpwHimQTLxder5ZCDNnCEm0mwnuUjPL0gdXg-I9Fk
+
+{
+    "message": "You can't do that! ${user}"
+}
